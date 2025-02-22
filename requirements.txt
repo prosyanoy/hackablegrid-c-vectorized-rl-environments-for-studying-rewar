@@ -1,0 +1,8 @@
+numpy
+gymnasium>=1.0
+torch
+matplotlib
+pytest
+pybind11
+cmake
+ninja
